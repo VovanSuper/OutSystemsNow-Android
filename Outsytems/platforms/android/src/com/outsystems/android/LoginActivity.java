@@ -49,6 +49,7 @@ public class LoginActivity extends BaseActivity {
 
     public static String KEY_INFRASTRUCTURE_NAME = "infrastructure";
     public static String KEY_AUTOMATICLY_LOGIN = "key_login_automaticly";
+    public static String DEFAULT_ENVIRONMENT = "https://e-taxfree.net";
 
     public boolean doLogin = false;
 
@@ -78,13 +79,18 @@ public class LoginActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        Bundle bundle = getIntent().getExtras();
-        if (bundle != null) {
-            String infrastructure = bundle.getString(KEY_INFRASTRUCTURE_NAME);
-            doLogin = bundle.getBoolean(KEY_AUTOMATICLY_LOGIN);
 
-            ((TextView) findViewById(R.id.text_view_label_application_value)).setText(infrastructure);
-        }
+//        MODIFIED TO MAKE LOGIN BE THE FIRST VIEW
+//
+//        Bundle bundle = getIntent().getExtras();
+//        if (bundle != null) {
+//            String infrastructure = bundle.getString(KEY_INFRASTRUCTURE_NAME);
+//            doLogin = bundle.getBoolean(KEY_AUTOMATICLY_LOGIN);
+//
+//            ((TextView) findViewById(R.id.text_view_label_application_value)).setText(infrastructure);
+//        }
+
+        ((TextView) findViewById(R.id.text_view_label_application_value)).setText(this.DEFAULT_ENVIRONMENT);
 
         final Button buttonLogin = (Button) findViewById(R.id.button_login);
         buttonLogin.setOnClickListener(onClickListener);
@@ -146,7 +152,9 @@ public class LoginActivity extends BaseActivity {
 		getWindowManager().getDefaultDisplay().getRealMetrics(displaymetrics);
 		
         WebServicesClient.getInstance().loginPlattform(getApplicationContext(), userName, password,
-                HubManagerHelper.getInstance().getDeviceId(), (int)(displaymetrics.widthPixels / displaymetrics.density), (int)(displaymetrics.heightPixels / displaymetrics.density), new WSRequestHandler() {
+                HubManagerHelper.getInstance().getDeviceId(), (int)(displaymetrics.widthPixels / displaymetrics.density),
+                (int)(displaymetrics.heightPixels / displaymetrics.density),
+                new WSRequestHandler() {
                     @Override
                     public void requestFinish(Object result, boolean error, int statusCode) {
                         stopLoading(v);

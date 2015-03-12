@@ -943,7 +943,7 @@ containing a value of this type.
         public static final int button_ect=0x7f0a00a7;
         public static final int button_forth=0x7f0a00a6;
         public static final int button_go=0x7f0a0050;
-        public static final int button_login=0x7f0a0059;
+        public static final int button_login=0x7f0a0058;
         public static final int checkbox=0x7f0a0034;
         public static final int collapseActionView=0x7f0a0011;
         public static final int contents_supplement_text_view=0x7f0a0074;
@@ -975,8 +975,8 @@ containing a value of this type.
         public static final int ectViewGroup=0x7f0a0062;
         public static final int edit_query=0x7f0a0037;
         public static final int edit_text_hub_url=0x7f0a004e;
-        public static final int edit_text_passwod=0x7f0a0058;
-        public static final int edit_text_user_mail=0x7f0a0057;
+        public static final int edit_text_passwod=0x7f0a0057;
+        public static final int edit_text_user_mail=0x7f0a0056;
         public static final int end=0x7f0a000c;
         public static final int expand_activities_button=0x7f0a002d;
         public static final int expanded_menu=0x7f0a0033;
@@ -1060,8 +1060,8 @@ containing a value of this type.
         public static final int text_view_demo=0x7f0a0051;
         public static final int text_view_description=0x7f0a0067;
         public static final int text_view_help=0x7f0a004d;
-        public static final int text_view_label_application=0x7f0a0055;
-        public static final int text_view_label_application_value=0x7f0a0056;
+        public static final int text_view_label_application=0x7f0a0059;
+        public static final int text_view_label_application_value=0x7f0a0055;
         public static final int text_view_label_no_applications=0x7f0a0045;
         public static final int text_view_title_hub=0x7f0a004a;
         public static final int time_text_view=0x7f0a0070;

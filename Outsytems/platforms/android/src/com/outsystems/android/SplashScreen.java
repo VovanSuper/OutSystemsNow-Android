@@ -42,6 +42,7 @@ public class SplashScreen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splashscreen);
+
         Log.i("Rendering Activity", "Splash");
 
         try {
@@ -66,7 +67,7 @@ public class SplashScreen extends Activity {
 
         if(data != null){
         	DeepLinkController.getInstance().createSettingsFromUrl(data);
-        }        
+        }
         
         
         // Add delay to show splashscreen

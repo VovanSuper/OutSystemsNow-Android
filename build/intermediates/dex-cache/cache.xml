@@ -9,11 +9,95 @@
         <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\classes-13547535d0661745555562e3ba1a76feefb6b766.jar" />
     </item>
     <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\libs\Pushwoosh.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4ec62323fe1e784cd0286afa0216c7a5769ed19b">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\Pushwoosh-762018ba52e24734f541d573cff858975cf59650.jar" />
+    </item>
+    <item
+        jar="P:\Outsystems-app\Outsytems\platforms\android\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-ca61217f58e9d527272490b48505f18eb5bebad4.jar" />
+    </item>
+    <item
+        jar="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\exploded-aar\Outsystems-app\android-support-v7-appcompat\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="146ba1230abaa030b7334e8574fc153c7caadafc">
+        <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\classes-0797faa7f89a34ec55d5b69873c65f98bfec3959.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\exploded-aar\OutSystemsNow-Android\android-support-v7-appcompat\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="295600bfc3b8cb069a221c350f447eada33b249a">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\classes-809a504fdb521e50338bb0580c47cc1a6159670e.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\exploded-aar\OutSystemsNow-Android\MobileECT\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2f52c4cef53659a078fc39a1a08690c48cc7069a">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\classes-0a7d1a92e495aad46c3e2ef06599e008dc3c6087.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\libs\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\picasso-2.3.2-11ae465a77630f6ab43d02bf47a78c6a9c821301.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\exploded-aar\OutSystemsNow-Android\MobileECT\unspecified\libs\commons-io-1.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\commons-io-1.3.2-1431fd93fa7400b5c9ad47194c2f1d68c742c790.jar" />
+    </item>
+    <item
+        jar="P:\Outsystems-app\Outsytems\platforms\android\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3d62997c154488738d1367406fb7ac6074f992e2">
+        <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-2da8ebba6d9fd86f29c17b8337967624b847b9fb.jar" />
+    </item>
+    <item
         jar="P:\Outsystems-app\Outsytems\platforms\android\libs\gson-2.2.4.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
         <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\release\gson-2.2.4-53e3ecd70da71810ec3020252296b8fb8469252d.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\exploded-aar\OutSystemsNow-Android\AndroidUniversalImageLoaderLib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="88c3736e564aefd2fc47366a126c98ec6bee65b9">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\classes-459da2ee8ad091a9bca59fc6af8d571a6ff2ea6c.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\gson-2.2.4-e420c714ce150aa59f810929cb40508a78e766fe.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-2bd9b57da08964ffe3016cf0ad5710c7dbe9b59b.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\exploded-aar\OutSystemsNow-Android.OutSytems.platforms.android\CordovaLib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="07468891eb82774150ff806cd83785bf8237aabc">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\classes-32d649cd20ebb2814162cc15ecb77646ac46571b.jar" />
     </item>
     <item
         jar="P:\Outsystems-app\Outsytems\platforms\android\libs\Pushwoosh.jar"
@@ -35,20 +119,6 @@
         revision="20.0.0"
         sha1="92d1409f739c4ebcfbab79b2a11ec63d1bf668f5">
         <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\com.google.zxing.client.android.captureactivity-2f91765ed5e0e734a07f6421ecbf1c6d8cf65bce.jar" />
-    </item>
-    <item
-        jar="P:\Outsystems-app\Outsytems\platforms\android\libs\android-async-http-1.4.5.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
-        <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-ca61217f58e9d527272490b48505f18eb5bebad4.jar" />
-    </item>
-    <item
-        jar="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\exploded-aar\Outsystems-app\android-support-v7-appcompat\unspecified\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="146ba1230abaa030b7334e8574fc153c7caadafc">
-        <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\classes-0797faa7f89a34ec55d5b69873c65f98bfec3959.jar" />
     </item>
     <item
         jar="P:\Outsystems-app\Outsytems\platforms\android\libs\picasso-2.3.2.jar"
@@ -79,11 +149,18 @@
         <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-support-v4-3c199c714364127fcfe1c2e3d9cb7b590dc6a004.jar" />
     </item>
     <item
-        jar="P:\Outsystems-app\Outsytems\platforms\android\libs\android-support-v7-appcompat.jar"
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\libs\com.google.zxing.client.android.captureactivity.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="92d1409f739c4ebcfbab79b2a11ec63d1bf668f5">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\com.google.zxing.client.android.captureactivity-98b484454d6a32ac67020ff021e967baee71e911.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\libs\android-support-v7-appcompat.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="3d62997c154488738d1367406fb7ac6074f992e2">
-        <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-2da8ebba6d9fd86f29c17b8337967624b847b9fb.jar" />
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-c98c419f901d90744082a762a9413bc5b35a5a88.jar" />
     </item>
     <item
         jar="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\exploded-aar\Outsystems-app\MobileECT\unspecified\libs\commons-io-1.3.2.jar"
@@ -91,6 +168,13 @@
         revision="20.0.0"
         sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
         <dex dex="P:\Outsystems-app\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\commons-io-1.3.2-4319065f90fad168980be8beb844ca0e1f549d0d.jar" />
+    </item>
+    <item
+        jar="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="P:\GitRepos\OutSystemsNow-Android\Outsytems\platforms\android\build\intermediates\pre-dexed\debug\android-support-v4-cf213555c88165408f7ea6e0abddfb749c4c544e.jar" />
     </item>
 
 </items>
