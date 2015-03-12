@@ -3,4 +3,4 @@
     android:fromXDelta="0%"
     android:interpolator="@anim/cycle_7"
     android:toXDelta="1%" />
-<!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/anim/shake.xml -->
+<!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/anim/shake.xml -->

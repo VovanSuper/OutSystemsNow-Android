@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values-zh-rCN/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values-zh-rCN/values.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
@@ -15,7 +15,7 @@
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values-zh-rCN/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values-zh-rCN/strings.xml -->
     <eat-comment/>
     <string name="app_picker_name">应用</string>
     <string name="bookmark_picker_name">书签</string>

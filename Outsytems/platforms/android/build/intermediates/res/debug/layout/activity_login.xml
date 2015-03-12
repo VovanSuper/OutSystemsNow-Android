@@ -8,15 +8,15 @@
     android:gravity="center_horizontal"
     android:orientation="vertical" >
 
-    <com.outsystems.android.widgets.CustomFontTextView
-        android:id="@+id/text_view_label_application"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="@string/label_application"
+    <!--<com.outsystems.android.widgets.CustomFontTextView-->
+        <!--android:id="@+id/text_view_label_application"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:text="@string/label_application"-->
 
-        android:textSize="14sp"
-        custom:fontStyle="Regular" />
+        <!--android:textSize="14sp"-->
+        <!--custom:fontStyle="Regular" />-->
 
     <com.outsystems.android.widgets.CustomFontTextView
         android:id="@+id/text_view_label_application_value"
@@ -106,4 +106,4 @@
 <!--             custom:fontStyle="Regular" /> -->
 <!--     </LinearLayout> -->
 
-</LinearLayout><!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/layout/activity_login.xml -->
+</LinearLayout><!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/layout/activity_login.xml -->

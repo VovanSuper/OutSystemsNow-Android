@@ -26,4 +26,4 @@
 
     <include layout="@layout/abc_activity_chooser_view_include" />
 
-</android.support.v7.internal.widget.LinearLayoutICS><!-- From: file:/P:/Outsystems-app/android-support-v7-appcompat/res/layout/abc_activity_chooser_view.xml --><!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/layout/abc_activity_chooser_view.xml -->
+</android.support.v7.internal.widget.LinearLayoutICS><!-- From: file:/P:/GitRepos/OutSystemsNow-Android/android-support-v7-appcompat/res/layout/abc_activity_chooser_view.xml --><!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/layout/abc_activity_chooser_view.xml -->

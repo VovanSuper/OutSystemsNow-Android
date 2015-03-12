@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values-sl/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values-sl/values.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Krmarjenje domov"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Krmarjenje navzgor"</string>
@@ -15,7 +15,7 @@
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deljenje z"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deljenje z:"</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values-sl/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values-sl/strings.xml -->
     <eat-comment/>
     <string name="app_picker_name">Aplikacije</string>
     <string name="bookmark_picker_name">Zaznamki</string>

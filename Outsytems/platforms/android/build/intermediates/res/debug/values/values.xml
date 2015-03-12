@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/arrays.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="country_codes">
     <item>-</item>
@@ -34,7 +34,7 @@
     <item>TW</item>
     <item>US</item>
   </string-array>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="actionBarDivider"/>
     <attr format="reference" name="actionBarItemBackground"/>
@@ -108,7 +108,7 @@
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
     <color name="abc_search_url_text_selected">@android:color/black</color>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/colors.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/colors.xml -->
     <eat-comment/>
     <color name="background_image_application_color">#E7E7E7</color>
     <color name="background_loading_web_application">#E6AAAAAA</color>
@@ -120,16 +120,16 @@
     <color name="grid_select_color">#F2F2F2</color>
     <color name="grid_text_color">#555555</color>
     <color name="hint_color">#ccc</color>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/my_colors.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/my_colors.xml -->
     <eat-comment/>
     <color name="my_bg_color">#9FCC3B</color>
     <color name="my_bg_end_color">#BDFFBD</color>
     <color name="my_bg_start_color">#089608</color>
     <color name="my_btntext_color">#610B38</color>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="outSystems_red">#c20</color>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/colors.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/colors.xml -->
     <eat-comment/>
     <color name="possible_result_points">#c0ffbd21</color>
     <color name="red_color">#c20</color>
@@ -161,7 +161,7 @@
     <declare-styleable name="Spinner"><attr format="reference" name="prompt"/><attr format="enum" name="spinnerMode"><enum name="dialog" value="0"/><enum name="dropdown" value="1"/></attr><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr format="reference" name="popupPromptView"/><attr name="android:gravity"/><attr format="boolean" name="disableChildrenWhenDisabled"/></declare-styleable>
     <declare-styleable name="Theme"><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/></declare-styleable>
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_default_height">48dip</dimen>
     <dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen>
@@ -180,44 +180,44 @@
     <dimen name="abc_panel_menu_list_width">296dp</dimen>
     <dimen name="abc_search_view_preferred_width">320dip</dimen>
     <dimen name="abc_search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/dimens.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="button_border">1dp</dimen>
     <dimen name="half_padding">4dip</dimen>
     <dimen name="standard_padding">8dip</dimen>
     <dimen name="toolbar_height">90dp</dimen>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/ids.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/ids.xml -->
     <eat-comment/>
     <item name="decode" type="id"/>
     <item name="decode_failed" type="id"/>
     <item name="decode_succeeded" type="id"/>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="home" type="id"/>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/ids.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/ids.xml -->
     <eat-comment/>
     <item name="launch_product_query" type="id"/>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/ids.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/ids.xml -->
     <eat-comment/>
     <item name="quit" type="id"/>
     <item name="restart_preview" type="id"/>
     <item name="return_scan_result" type="id"/>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/integers.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/integers.xml -->
     <eat-comment/>
     <item name="grid_rows" type="integer">2</item>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
@@ -232,16 +232,16 @@
     <string name="abc_searchview_description_voice">Voice search</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">E-Taxfree</string>
     <string name="app_picker_name">Applications</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="audio_recorder_alert_message">Your feedback is being recorded...</string>
     <string name="audio_recorder_dialog_cancel">Cancel</string>
     <string name="audio_recorder_dialog_done">Done</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="bookmark_picker_name">Bookmarks</string>
     <string name="button_add_calendar">Add to calendar</string>
@@ -279,22 +279,22 @@
     <string name="contents_phone">Phone number</string>
     <string name="contents_sms">SMS address</string>
     <string name="contents_text">Plain text</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="ect_dialog_cancel_button">Cancel</string>
     <string name="ect_dialog_retry_button">Retry</string>
     <string name="ect_feature_name">OutSystems - App Feedback</string>
     <string name="ect_send_feedback_failed_message">Do you want to try submitting again?</string>
     <string name="ect_send_feedback_failed_title">Sorry, we didn\'t manage to send your feedback.</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="edit_text_hint_host">yourpersonal.outsystemscloud.com</string>
     <string name="edit_text_hint_password">Password</string>
     <string name="edit_text_hint_user">Username</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="feedback_message_prompt">Type or record your feedback...</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="history_clear_one_history_text">Clear</string>
     <string name="history_clear_text">Clear history</string>
@@ -395,29 +395,29 @@
     <string name="result_text">Found plain text</string>
     <string name="result_uri">Found URL</string>
     <string name="result_wifi">Found WLAN Configuration</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="retry_button">Retry</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="sbc_name">Google Book Search</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="send_button">Send</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="share_name">Share via barcode</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="status_failed_message">Failed to send feedback</string>
     <string name="status_sending_message">Sending your feedback...</string>
     <string name="status_success_message">Your feedback was sent! Thanks!</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/strings.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="wifi_changing_network">Requesting connection to network\u2026</string>
     <string name="wifi_ssid_label">Network Name</string>
     <string name="wifi_type_label">Type</string>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/styles.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/styles.xml -->
     <eat-comment/>
     <style name="ActionBarOS" parent="@style/Widget.AppCompat.ActionBar">
         <item name="android:background">@android:color/white</item>
@@ -452,7 +452,7 @@
         <item name="android:activityCloseEnterAnimation">@anim/activity_close_enter</item>
         <item name="android:activityCloseExitAnimation">@anim/activity_close_exit</item>
     </style>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
         <item name="android:textColor">@android:color/primary_text_light</item>
@@ -879,13 +879,13 @@
     </style>
     <style name="Theme.Base.Light" parent="android:Theme.Light">
     </style>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/styles.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/styles.xml -->
     <eat-comment/>
     <style name="Theme.Outsystems.ActionBar.TitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
         <!--<item name="android:textColor">@color/red_color</item>-->
 
     </style>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/values/values.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
     </style>
@@ -1170,7 +1170,7 @@
     </style>
     <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner">
     </style>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values/styles.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values/styles.xml -->
     <eat-comment/>
     <style name="Widget.Button" parent="@android:style/Widget.Button">
         <item name="android:background">@drawable/button_background</item>

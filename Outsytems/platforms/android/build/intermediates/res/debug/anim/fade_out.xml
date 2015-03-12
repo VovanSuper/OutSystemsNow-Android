@@ -5,4 +5,4 @@
         android:fromAlpha="1.0"
         android:interpolator="@android:anim/accelerate_interpolator"
         android:toAlpha="0.0" />
-</set><!-- From: file:/D:/Projects/OutSystemsNow/BitBucket/Android/OutSystemsMobileFrameworks/MobileECT/src/main/res/anim/fade_out.xml --><!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/anim/fade_out.xml -->
+</set><!-- From: file:/D:/Projects/OutSystemsNow/BitBucket/Android/OutSystemsMobileFrameworks/MobileECT/src/main/res/anim/fade_out.xml --><!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/MobileECT/unspecified/res/anim/fade_out.xml -->

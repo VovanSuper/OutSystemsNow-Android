@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/values-port/integers.xml -->
+    <!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/values-port/integers.xml -->
     <eat-comment/>
     <item name="grid_rows" type="integer">2</item>
 </resources>

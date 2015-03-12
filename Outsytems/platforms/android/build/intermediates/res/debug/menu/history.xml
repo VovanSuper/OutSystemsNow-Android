@@ -23,4 +23,4 @@
         android:title="@string/history_clear_text"
         android:icon="@android:drawable/ic_menu_delete"
         android:orderInCategory="2"/>
-</menu><!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/menu/history.xml -->
+</menu><!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/menu/history.xml -->

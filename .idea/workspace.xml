@@ -141,8 +141,8 @@
       <file leaf-file-name="WebServicesClient.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32352942" vertical-offset="0" max-vertical-offset="8568">
-              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.29411766" vertical-offset="102" max-vertical-offset="8602">
+              <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -3029,7 +3029,11 @@
       <created>1426166995770</created>
       <updated>1426166995770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed DEMO_HOST_NAME in WebServiceClient">
+      <created>1426167664590</created>
+      <updated>1426167664590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3087,7 +3091,8 @@
     </option>
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="Made LOGIN be the initial starting activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made LOGIN be the initial starting activity" />
+    <MESSAGE value="Changed DEMO_HOST_NAME in WebServiceClient" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed DEMO_HOST_NAME in WebServiceClient" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3614,8 +3619,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32352942" vertical-offset="0" max-vertical-offset="8568">
-          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.29411766" vertical-offset="102" max-vertical-offset="8602">
+          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
           <folding />
         </state>
       </provider>

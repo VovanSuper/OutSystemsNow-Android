@@ -17,4 +17,4 @@
            android:interpolator="@android:anim/decelerate_interpolator"
            android:fromYDelta="50%p" android:toYDelta="0"
            android:duration="@android:integer/config_mediumAnimTime"/>
-<!-- From: file:/P:/Outsystems-app/android-support-v7-appcompat/res/anim/abc_slide_in_bottom.xml --><!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/android-support-v7-appcompat/unspecified/res/anim/abc_slide_in_bottom.xml -->
+<!-- From: file:/P:/GitRepos/OutSystemsNow-Android/android-support-v7-appcompat/res/anim/abc_slide_in_bottom.xml --><!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/build/intermediates/exploded-aar/OutSystemsNow-Android/android-support-v7-appcompat/unspecified/res/anim/abc_slide_in_bottom.xml -->

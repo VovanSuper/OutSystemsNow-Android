@@ -100,4 +100,4 @@
         android:summary="@string/preferences_try_bsplus_summary"/>
   </PreferenceCategory>
 </PreferenceScreen>
-<!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/res/xml/preferences.xml -->
+<!-- From: file:/P:/GitRepos/OutSystemsNow-Android/Outsytems/platforms/android/res/xml/preferences.xml -->
