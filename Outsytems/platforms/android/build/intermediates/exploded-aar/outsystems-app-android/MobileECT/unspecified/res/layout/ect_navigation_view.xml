@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="45dp"
+    android:background="@color/outSystems_red"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:baselineAligned="false"
+    android:id="@+id/ectNavigationBar">
+
+    <LinearLayout
+
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.15"
+        android:gravity="center_vertical|left"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ectCloseButton"
+            android:src="@drawable/icon_cross_white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="11dp"
+            android:paddingBottom="11dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:background="@android:color/transparent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.70"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_marginTop="6dp"
+            android:layout_marginBottom="6dp"
+            android:gravity="center_vertical|clip_horizontal"
+            android:minHeight="32dp"
+            android:textColor="@android:color/white"
+            android:id="@+id/ectBrandingMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ect_feature_name"
+            android:textSize="16dp"
+            android:textAlignment="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.15"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ectHelperButton"
+            android:src="@drawable/icon_help_white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:background="@android:color/transparent"/>
+    </LinearLayout>
+</LinearLayout><!-- From: file:/D:/Projects/OutSystemsNow/BitBucket/Android/OutSystemsMobileFrameworks/MobileECT/src/main/res/layout/ect_navigation_view.xml -->

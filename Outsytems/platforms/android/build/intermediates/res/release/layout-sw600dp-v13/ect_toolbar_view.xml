@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/outSystems_red"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.875"
+        android:gravity="center_vertical|left"
+        android:orientation="vertical">
+
+        <EditText
+            android:minHeight="52dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginBottom="6dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/ectFeedbackMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoText="false"
+            android:background="@drawable/edit_text_roundedcorners"
+            android:editable="true"
+            android:ems="22"
+            android:enabled="true"
+            android:hint="@string/feedback_message_prompt"
+            android:inputType="textMultiLine"
+            android:maxLength="500"
+            android:maxLines="5"
+            android:minLines="1"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:scrollHorizontally="false"
+            android:scrollbars="vertical"
+            android:visibility="visible" />
+
+        <ImageButton
+            android:id="@+id/buttonPlayAudio"
+            android:src="@drawable/icon_play_white"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:padding="10dp"
+            android:layout_marginBottom="0dp"/>
+
+        <ImageButton
+            android:id="@+id/buttonStopAudio"
+            android:src="@drawable/icon_stop_white"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:padding="10dp"
+            android:layout_marginBottom="0dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.125"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/buttonSend"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="4dp"
+            android:background="@android:color/transparent"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/send_button"
+            android:textColor="@android:color/white"
+            android:visibility="gone"
+            android:textSize="24sp"/>
+
+        <ImageButton
+            android:id="@+id/buttonRecordAudio"
+            android:src="@drawable/icon_microphone_roundedwhitebg"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@android:color/transparent"
+            android:layout_marginBottom="0dp"/>
+
+    </LinearLayout>
+</LinearLayout><!-- From: file:/D:/Projects/OutSystemsNow/BitBucket/Android/OutSystemsMobileFrameworks/MobileECT/src/main/res/layout-sw600dp/ect_toolbar_view.xml --><!-- From: file:/P:/Outsystems-app/Outsytems/platforms/android/build/intermediates/exploded-aar/Outsystems-app/MobileECT/unspecified/res/layout-sw600dp-v13/ect_toolbar_view.xml -->
