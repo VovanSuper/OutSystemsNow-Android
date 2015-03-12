@@ -31,24 +31,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.outsystems.android" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f80f5c1-1bb8-4332-9522-cb1531aca37d" name="Default" comment="Made LOGIN be the initial starting activity">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OutSystemsNow-Android.iml" />
-      <change type="DELETED" beforePath="P:\GitRepos\OutSystemsNow-Android\Outsystems-app.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidUniversalImageLoaderLib/AndroidUniversalImageLoaderLib.iml" afterPath="$PROJECT_DIR$/AndroidUniversalImageLoaderLib/AndroidUniversalImageLoaderLib.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/CordovaLib/CordovaLib.iml" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/CordovaLib/CordovaLib.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/LoginActivity.java" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/LoginActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MobileECT/MobileECT.iml" afterPath="$PROJECT_DIR$/MobileECT/MobileECT.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/MobileECT_unspecified.xml" afterPath="$PROJECT_DIR$/.idea/libraries/MobileECT_unspecified.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/OutSytems.iml" afterPath="$PROJECT_DIR$/Outsytems/OutSytems.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/build/generated/source/r/debug/com/outsystems/android/R.java" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/build/generated/source/r/debug/com/outsystems/android/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/SplashScreen.java" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/SplashScreen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/res/layout/activity_login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/android.iml" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/android.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/platforms.iml" afterPath="$PROJECT_DIR$/Outsytems/platforms/platforms.iml" />
+    <list default="true" id="9f80f5c1-1bb8-4332-9522-cb1531aca37d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java" afterPath="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gradle.iws" />
@@ -75,17 +59,17 @@
       <file leaf-file-name="LoginActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="488" max-vertical-offset="3247">
-              <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="3247">
+              <caret line="153" column="25" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_login.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="activity_login.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/res/layout/activity_login.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0625" vertical-offset="0" max-vertical-offset="1938">
+            <state vertical-scroll-proportion="-11.962963" vertical-offset="0" max-vertical-offset="1938">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -154,6 +138,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="WebServicesClient.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32352942" vertical-offset="0" max-vertical-offset="8568">
+              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="activity_web_application.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/res/layout/activity_web_application.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -212,6 +206,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Vladimir Ovsyukov" />
         <option value="Vladimir Ovysukov" />
       </list>
     </option>
@@ -2640,6 +2635,7 @@
         <option value="$PROJECT_DIR$/Outsytems/platforms/android/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/LoginActivity.java" />
         <option value="$PROJECT_DIR$/Outsytems/platforms/android/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java" />
       </list>
     </option>
   </component>
@@ -3029,6 +3025,11 @@
       <created>1421849173441</created>
       <updated>1421849173441</updated>
     </task>
+    <task id="LOCAL-00001" summary="Made LOGIN be the initial starting activity">
+      <created>1426166995770</created>
+      <updated>1426166995770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3037,7 +3038,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42003232" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42003232" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3469,14 +3470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="9316">
-          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/helpers/HubManagerHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05752961" vertical-offset="153" max-vertical-offset="952">
@@ -3581,14 +3574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="488" max-vertical-offset="3247">
-          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/res/layout/activity_hub_app.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
@@ -3610,13 +3595,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/res/layout/activity_login.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0625" vertical-offset="0" max-vertical-offset="1938">
+        <state vertical-scroll-proportion="-11.962963" vertical-offset="0" max-vertical-offset="1938">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="3247">
+          <caret line="153" column="25" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outsytems/platforms/android/src/com/outsystems/android/core/WebServicesClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32352942" vertical-offset="0" max-vertical-offset="8568">
+          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

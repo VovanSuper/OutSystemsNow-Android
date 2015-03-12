@@ -54,7 +54,7 @@ public class WebServicesClient {
 
     public static final String URL_WEB_APPLICATION = "https://%1$s/%2$s";
     public static final String BASE_URL = "https://%1$s/OutSystemsNowService/";
-    public static String DEMO_HOST_NAME = "your.demo.server";
+    public static String DEMO_HOST_NAME = "dev.e-taxfree.net";
 
     private static volatile WebServicesClient instance = null;
 
@@ -80,7 +80,9 @@ public class WebServicesClient {
         trustedHosts.add("outsystems.com");
         trustedHosts.add("outsystems.net");
         trustedHosts.add("outsystemscloud.com");
-
+        trustedHosts.add("dev.e-taxfree.net");
+        trustedHosts.add("tes.e-taxfree.net");
+        trustedHosts.add("e-taxfree.net");
     }
 
     public static String PrettyErrorMessage(int statusCode) {
